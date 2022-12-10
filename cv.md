@@ -1,5 +1,7 @@
 # Vyacheslav Papylev
 
+![Me](/img/papylev_user_picture.png)
+
 ## Contacts
 - __Location__: St-Petersburg, Russia
 - __Telegram__: https://t.me/papylev 
