@@ -37,3 +37,5 @@ function multiply(a, b){
 ## Language
 - __Russia__: Native
 - __English__: Beginner
+
+This CV was translated using Google Translate
