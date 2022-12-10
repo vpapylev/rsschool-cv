@@ -8,3 +8,11 @@
 - __Email__: vpapylev@ya.ru
 - __Github__: https://github.com/vpapylev
 - __Discord__: papylev#5927
+
+## About me
+I am 35 years old and I am an engineer. In my work I try to automate all routine processes. I started taking a Front-end/JavaScript course at a school Rolling Scopes School in order to become a frontend developer in the future. I am interested in this direction and I want to develop in it and gain new knowledge.
+
+## Skills
+- HTML Beginner
+- CSS Beginner
+- Git Beginner
