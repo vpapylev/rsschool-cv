@@ -24,5 +24,16 @@ I am 35 years old and I am an engineer. In my work I try to automate all routine
 - [HTML для начинающих](https://ru.code-basics.com/languages/html)
 - [CSS для начинающих](https://ru.code-basics.com/languages/css)
 
+## Code Examples
+```JS
+function multiply(a, b){
+ return a * b
+}
+```
+
 ## Experience
 - No experience in Web Development
+
+## Language
+- __Russia__: Native
+- __English__: Beginner
