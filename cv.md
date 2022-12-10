@@ -16,3 +16,13 @@ I am 35 years old and I am an engineer. In my work I try to automate all routine
 - HTML Beginner
 - CSS Beginner
 - Git Beginner
+
+## Education
+- 2014 - Higher technical education
+
+## Courses
+- [HTML для начинающих](https://ru.code-basics.com/languages/html)
+- [CSS для начинающих](https://ru.code-basics.com/languages/css)
+
+## Experience
+- No experience in Web Development
