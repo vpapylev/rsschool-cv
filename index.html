@@ -1,12 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
+    
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-widt, initial-scale=1.0">
 <title>Vyacheslav Papylev CV</title>
 <link href="style.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
 </head>
 
 <body>
-
+    <header class="header">
+        <div class="container">
+            <div class="header_one">
+                <div class="logo">
+                    <img class="logo-img" src="img/papylev_logo.jpg" alt="Logo"><br>
+                    <span class="h1">Vyacheslav Papylev<br><span class="logo_gray">Junior Front-end Developer</span></h1>
+                </div>
+                <div class="navigate">
+                    <ul>
+                       <li><a class="link" href="#aboutme">About me</a></li>
+                       <li><a class="link" href="#contact">Contact</a></li>
+                       <li><a class="link" href="#skills">Skills</a></li>
+                    </ul>
+                    <ul>
+                       <li><a class="link" href="#education">Education and courses</a></li>
+                       <li><a class="link" href="#code">Code Examples</a></li>
+                       <li><a class="link" href="#languages">Languages</a></li> 
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main class="main">
+        <div class="container">
+           <div class="column_one">
+                <div class="aboutme" id="aboutme">
+                    <h2 class="h2">About me</h2>
+                    <p class="text">I am 35 years old and I am an engineer. In my work I try to automate all routine processes. I started taking a Front-end/JavaScript course at a school Rolling Scopes School in order to become a frontend developer in the future. I am interested in this direction and I want to develop in it and gain new knowledge.</p>
+                </div>
+                <div class="contact" id="contact">
+                    <h2 class="h2">Contact</h2>
+                    <ul class="text">
+                        <li>Telegram: <a class="link_content" href="https://t.me/papylev">@papylev</a></li>
+                        <li>Email: <a class="link_content" href="mailto:vpapylev@ya.ru">vpapylev@ya.ru</a></li>
+                        <li>Github: <a class="link_content" href="https://github.com/vpapylev">https://github.com/vpapylev</a></li>
+                        <li>Discord: <a class="link_content" href="#">papylev#5927</a></li>
+                     </ul>
+                </div>
+                <div class="education" id="education">
+                    <h2 class="h2">Education and Courses</h2>
+                    <h3 class="h3">Education</h3>
+                    <p class="text">2014 - Higher technical education</p>
+                    <h3 class="h3">Courses</h3>
+                    <ul>
+                        <li><a class="link_content" href="https://ru.code-basics.com/languages/html">HTML для начинающих</a></li>
+                        <li><a class="link_content" href="https://ru.code-basics.com/languages/css">CSS для начинающих</a></li>
+                    </ul>
+                </div>
+                <div class="skills" id="skills">
+                    <h2 class="h2">Skills</h2>
+                    <ul class="text">
+                        <li>HTML Beginner</li>
+                        <li>CSS Beginner</li>
+                        <li>Git Beginner</li>
+                    </ul>
+                </div>                
+                <div class="code" id="code">
+                    <h2 class="h2">Code Examples</h2>
+                    <pre class="text-code">
+                    function multiply(a, b){
+                        return a * b
+                    }</pre>
+                </div>
+                <div class="languages" id="languages">
+                    <h2 class="h2">Languages</h2>
+                    <ul class="text">
+                        <li>Russia: Native</li>
+                        <li>English: Beginner</li>
+                    </ul>
+                </div>
+           </div> 
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <div class="footer_one">
+                <a href="https://github.com/vpapylev"><img class="git-img" src="img/github-logo.png" alt="Github"></a>
+                <span class="year">2022</span>
+                <a href="https://rs.school/js-stage0/"><img class="rss-img" src="img/rs_school_js.svg" alt="RSSchool"></a>
+            </div>
+        </div>
+    </footer>
 </body>
 </html>
